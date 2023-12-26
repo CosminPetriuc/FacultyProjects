@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, you can see my faculty assigments in the other branches from this repository <3 
 
 <!--
 **CosminPetriuc/CosminPetriuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
